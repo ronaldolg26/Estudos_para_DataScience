@@ -1,0 +1,1 @@
+Repositório criado para meus estudos em Ciência de Dados. Aqui você encontrará Notebooks de estudo, trechos de livros e imagens ilustrativas das funções mais usadas de bibliotecas como Pandas, Numpy, scikit-learn. 
